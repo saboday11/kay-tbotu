@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'saboday'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_93f7a6ae2df04bfba2c4678567debeeb }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3e713cef994143ea876cb7ffd3cb5a15 }}
         package: .
